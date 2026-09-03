@@ -10,23 +10,34 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 
 ## 🛠️ Skills
 
-**Data & Programming:**
-`Python` `SQL` `Pandas` `NumPy` `Advanced Excel`
+### 📊 Data Analytics & BI
 
-**Visualization & BI:**
-`Power BI` `Matplotlib` `Seaborn` `Plotly`
+`Python` `SQL` `Pandas` `NumPy` `Advanced Excel` `Power BI` `Data Visualization` `EDA`
 
-**AI / ML:**
-`Scikit-learn` `XGBoost` `TensorFlow` `Keras` `NLP`
+### 🤖 AI / Machine Learning
 
-**Data Engineering:**
+`Scikit-learn` `XGBoost` `TensorFlow` `Keras` `NLP` `Generative AI` `Prompt Engineering`
+
+### ⚙️ Data Engineering
+
 `PySpark` `Databricks` `ETL` `Delta Lake` `Medallion Architecture` `AWS S3`
 
-**Core & Professional:**
-`OOP` `DBMS` `Data Structures` `Software Testing` `SDLC` `Agile` `Project Management` `Jira` `Git/GitHub`
+### 💻 Programming & Web
 
-**Other:**
-`Generative AI` `Prompt Engineering` `n8n Automation`
+`Java` `C` `PHP` `HTML` `CSS` `JavaScript`
+
+### 🗄️ Computer Science Fundamentals
+
+`DBMS` `OOP` `Data Structures` `Operating Systems` `Linux` `Computer Networks` `Android`
+
+### 🔄 Software Development & Management
+
+`SDLC` `Agile Methodologies` `Scrum` `Software Testing` `Project Management` `Jira` `Task Tracking` `Sprint Planning`
+
+### 🔧 Tools & Automation
+
+`Git` `GitHub` `n8n` `Jira`
+
 
 > *Currently building practical knowledge across these technologies and continuously improving through projects and hands-on learning.*
 
