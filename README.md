@@ -118,7 +118,7 @@ I'm interested in roles where I can combine **data analysis, technology, problem
 
 ## 📫 Let's Connect
 
-💼 **LinkedIn:** [Add your LinkedIn URL]
+
 📧 **Email:** [mizbashaikh113@gmail.com]
 
 ---
