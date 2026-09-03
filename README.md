@@ -71,7 +71,7 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 * 🥇 **Won a college hackathon/competition** for building an AI-generated solution addressing a student-focused problem as part of the **Aghaaz Competition**.
 * 🏆 **Won a Research Competition** at the **Avishkar Research Competition**.
 * 🔬 Presented research on **AI-based Food Adulteration Detection** at the research convention.
-* 📄 Research paper published/presented through the **International Journal of Advanced and Innovative Research (IJAIR)**.
+* 📄 Research paper published & presented through the **International Journal of Advanced and Innovative Research (IJAIR)**.
 * 🤝 Actively participated in **college volunteering and academic activities**, contributing to events and initiatives across the college.
 * 💡 Interested in applying technology to solve practical, real-world problems.
 
@@ -82,7 +82,7 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 ### M.Sc. Computer Science
 
 **Savitribai Phule Pune University**
-**CGPA: 9.50/10** | Expected 2027
+**FY-CGPA: 9.50/10** | Expected 2027
 
 ### B.Sc. Computer Science
 
