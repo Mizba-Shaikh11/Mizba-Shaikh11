@@ -45,31 +45,31 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 
 # 🚀 Featured Projects
 
-### 🏭 FMCG Sales Intelligence & Lakehouse
+### 🏭 FMCG Sales Analysis 
 
 **Problem:** Raw FMCG data needed integration and transformation for reliable analytics.
 **Built:** ETL pipeline using **PySpark, Databricks, AWS S3 & Medallion Architecture**.
 **Focus:** Data Engineering • ETL • Data Quality
 
-### 🎬 Netflix Content Intelligence
+### 🎬 Netflix Content Analysis
 
 **Problem:** Understand Netflix's content evolution and distribution patterns.
 **Analyzed:** Content, genres, countries and trends using **Python & SQL**.
 **Focus:** EDA • Business Insights • Visualization
 
-### 📱 Google Play Store Analytics
+### 📱 Google Play Store Analysis
 
 **Problem:** Understand factors influencing app adoption, ratings and user sentiment.
 **Analyzed:** Installs, reviews, categories, pricing and sentiment.
 **Focus:** Product Analytics • Customer Insights
 
-### 📈 Stock Market Predictive Analytics
+### 📈 Stock Market Predictive Analysis
 
 **Problem:** Explore historical market patterns and predictive possibilities.
 **Built:** Data preprocessing and predictive analysis using **Python & ML**.
 **Focus:** Time-Series • Predictive Analytics
 
-### 👥 Employee Attrition Analytics
+### 👥 Employee Attrition Analysis
 
 **Problem:** Identify factors associated with employee attrition.
 **Analyzed:** Employee and workplace factors using **Python & ML**.
