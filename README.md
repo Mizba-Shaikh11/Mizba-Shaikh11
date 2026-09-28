@@ -2,9 +2,7 @@
 
 ### 📊 Data Analyst | Python • SQL • Power BI | AI/ML • Data Engineering
 
-Computer Science postgraduate passionate about turning data into **actionable insights, intelligent solutions, and business decisions**.
-
-I have hands-on project experience across **Data Analytics, AI/ML, Data Engineering, and Business Intelligence**, along with exposure to software development, testing, project management, and core computer science concepts.
+Computer Science postgraduate focused on **Data Analytics, AI/ML, Data Engineering, and Business Intelligence**. I enjoy working with data to discover insights, solve practical problems, and build data-driven solutions.
 
 ---
 
@@ -26,65 +24,77 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 
 `Java` `C` `PHP` `HTML` `CSS` `JavaScript`
 
-### 🗄️ Computer Science Fundamentals
+### 🗄️ Computer Science
 
-`DBMS` `OOP` `Data Structures` `Operating Systems` `Linux` `Computer Networks` `Android`
+`DBMS` `OOP` `Data Structures` `Operating Systems` `Linux` `Computer Networks`
 
-### 🔄 Software Development & Management
+### 🔄 Development & Project Management
 
-`SDLC` `Agile Methodologies` `Scrum` `Software Testing` `Project Management` `Jira` `Task Tracking` `Sprint Planning`
+`SDLC` `Agile` `Scrum` `Software Testing` `Jira` `Git` `GitHub`
 
-### 🔧 Tools & Automation
-
-`Git` `GitHub` `n8n` `Jira`
-
-
-> *Currently building practical knowledge across these technologies and continuously improving through projects and hands-on learning.*
+> Currently strengthening my skills through practical projects, hands-on learning, and academic work.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏭 FMCG Sales Analysis 
+### 🏭 FMCG Sales Data Engineering
 
-**Problem:** Raw FMCG data needed integration and transformation for reliable analytics.
-**Built:** ETL pipeline using **PySpark, Databricks, AWS S3 & Medallion Architecture**.
+**Problem:** Raw FMCG sales data required processing and transformation for reliable analytics.
+
+**Built:** An ETL pipeline using **PySpark, Databricks, AWS S3, Delta Lake, and Medallion Architecture**.
+
 **Focus:** Data Engineering • ETL • Data Quality
 
-### 🎬 Netflix Content Analysis
+---
 
-**Problem:** Understand Netflix's content evolution and distribution patterns.
-**Analyzed:** Content, genres, countries and trends using **Python & SQL**.
-**Focus:** EDA • Business Insights • Visualization
+### 🛍️ Customer Shopping Behavior Analysis
+
+**Problem:** Understand customer purchasing patterns and factors influencing shopping behavior.
+
+**Analyzed:** Customer demographics, purchase behavior, product categories, discounts, reviews, and spending patterns using **Python, SQL, and Power BI**.
+
+**Focus:** Data Analytics • Business Intelligence • Customer Insights
+
+---
 
 ### 📱 Google Play Store Analysis
 
-**Problem:** Understand factors influencing app adoption, ratings and user sentiment.
-**Analyzed:** Installs, reviews, categories, pricing and sentiment.
-**Focus:** Product Analytics • Customer Insights
+**Problem:** Understand factors influencing app adoption, ratings, reviews, and user engagement.
+
+**Analyzed:** App categories, ratings, installs, pricing, reviews, and sentiment using **Python and EDA techniques**.
+
+**Focus:** Product Analytics • EDA • Customer Insights
+
+---
+
+### 🎬 Netflix Content Analysis
+
+**Problem:** Understand Netflix's content distribution and growth patterns.
+
+**Analyzed:** Content types, genres, countries, release trends, and other content characteristics using **Python and SQL**.
+
+**Focus:** EDA • Business Insights • Data Visualization
+
+---
 
 ### 📈 Stock Market Predictive Analysis
 
-**Problem:** Explore historical market patterns and predictive possibilities.
-**Built:** Data preprocessing and predictive analysis using **Python & ML**.
-**Focus:** Time-Series • Predictive Analytics
+**Problem:** Explore historical stock market patterns and predictive possibilities.
 
-### 👥 Employee Attrition Analysis
+**Built:** Data preprocessing and predictive analysis using **Python and Machine Learning**.
 
-**Problem:** Identify factors associated with employee attrition.
-**Analyzed:** Employee and workplace factors using **Python & ML**.
-**Focus:** HR Analytics • Predictive Modeling
+**Focus:** Time-Series Analysis • Predictive Analytics • Machine Learning
 
 ---
 
 # 🏆 Achievements & Activities
 
-* 🥇 **Won a college hackathon/competition** for building an AI-generated solution addressing a student-focused problem as part of the **Aghaaz Competition**.
-* 🏆 **Won a Research Competition** at the **Avishkar Research Competition**.
-* 🔬 Presented research on **AI-based Food Adulteration Detection** at the research convention.
-* 📄 Research paper published & presented through the **International Journal of Advanced and Innovative Research (IJAIR)**.
-* 🤝 Actively participated in **college volunteering and academic activities**, contributing to events and initiatives across the college.
-* 💡 Interested in applying technology to solve practical, real-world problems.
+* 🥇 Won a college hackathon/competition as part of the **Aghaaz Competition** by developing an AI-based solution for a student-focused problem.
+* 🏆 Won a research competition at the **Avishkar Research Competition**.
+* 🔬 Presented research on **AI-Based Food Adulteration Detection** at a research convention.
+* 📄 Research paper published and presented through the **International Journal of Advanced and Innovative Research (IJAIR)**.
+* 🤝 Participated in college volunteering, academic activities, and technical events.
 
 ---
 
@@ -98,7 +108,7 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 ### B.Sc. Computer Science
 
 **Savitribai Phule Pune University**
-**CGPA: 9.50/10** | 2022–2025
+**CGPA: 9.27/10** | 2022–2025
 
 ---
 
@@ -109,13 +119,13 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 * Generative AI — Udemy
 * Forage Job Simulations
 * Microsoft AI Skills Fest
-* Microsoft Certified: Azure Data Fundamentals – Expected October 2026
+* Microsoft Azure Data Fundamentals — Expected October 2026
 
 ---
 
 ## 🌱 Currently Exploring
 
-`Advanced SQL` • `Data Engineering` • `Cloud` • `Generative AI` • `AI-powered Analytics`
+`Advanced SQL` • `Data Engineering` • `Cloud` • `Generative AI` • `AI-Powered Analytics`
 
 ---
 
@@ -123,14 +133,13 @@ I have hands-on project experience across **Data Analytics, AI/ML, Data Engineer
 
 **Data Analyst | Business/Data Analyst | AI/ML Analyst | Junior Data Scientist | Entry-Level Data Engineer**
 
-I'm interested in roles where I can combine **data analysis, technology, problem-solving and business understanding** to create measurable impact.
+Interested in opportunities where I can combine **data analysis, technology, problem-solving, and business understanding** to build practical data-driven solutions.
 
 ---
 
 ## 📫 Let's Connect
 
-
-📧 **Email:** [mizbashaikh113@gmail.com]
+📧 **Email:** [mizbashaikh113@gmail.com](mailto:mizbashaikh113@gmail.com)
 
 ---
 
